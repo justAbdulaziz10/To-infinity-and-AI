@@ -45,6 +45,8 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 |--------|--------------|-----------|--------|
 | Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 2 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
 | Calculus | Khan Academy | 🟨 3 / 199 | [Khan Academy](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
+| Statistics | Khan Academy | 🟨 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
+| Probability | Khan Academy | 🟨 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
 
 ---
 
