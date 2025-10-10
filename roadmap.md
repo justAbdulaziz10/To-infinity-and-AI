@@ -1,6 +1,6 @@
 # My Journey into Artificial Intelligence
 
-Hello everybody  
+Hello everybody 
 This repository documents my **personal roadmap** to master **AI & Machine Learning** and eventually become **one of the greatest innovators in the field**.  
 I’ll keep updating this file regularly as I progress through new courses, projects, and discoveries.
 
@@ -37,10 +37,10 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Differential Equations | 3Blue1Brown | ⏳ 0 / 6 | [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 
 ### Continuing Math Alongside AI
-I’m also watching **Gilbert Strang’s Linear Algebra Lectures (MIT)**  
-- Progress: 🟨 2 / 34  
-- [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)  
-- 📝 My personal notes: [Linear_Algebra_notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes)
+
+| Course | Institution | Progress | Links |
+|--------|--------------|-----------|--------|
+| Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 2 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
 
 ---
 
@@ -50,8 +50,7 @@ Now that the fundamentals are taking root, I’m starting to advance toward the 
 
 | Course | Institution | Progress | Link |
 |--------|--------------|-----------|------|
-| Stanford CS230: Deep Learning (Autumn 2025) | Stanford | 🟨 2 / 10 | [Stanford CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) |
-| 📝 My notes | Personal Repo | — | [Deep Learning Notes](https://github.com/justAbdulaziz10/Deep-Learning-Autuman-2025_Notes) |
+| Stanford CS230: Deep Learning (Autumn 2025) | Stanford | 🟨 2 / 10 | [Stanford CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) · [My Notes](https://github.com/justAbdulaziz10/Deep-Learning-Autuman-2025_Notes) |
 | Generative AI for Developers | Google Cloud | 🟨 3 / 12 | [Google Cloud Path](https://www.cloudskillsboost.google/paths/183) |
 
 ---
@@ -67,4 +66,4 @@ Stay tuned — I’ll keep updating this roadmap with every course completed, ev
 ---
 
 **Created by:** [Abdulaziz Alkhlaiwe](https://github.com/justAbdulaziz10)  
-🧠 *Future AI Innovator | CS Student | Lifelong Learner*
+*Future AI Innovator | CIS Student | Lifelong Learner*
