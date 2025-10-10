@@ -47,7 +47,13 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 ---
 
-## Phase 3: Diving Deep into Machine Learning & AI
+## Phase 3: Learning the basics about AI
+
+| Course | Institution | Progress | Links |
+|--------|--------------|-----------|--------|
+| AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
+---
+## Phase 4: Diving Deep into Machine Learning & AI
 
 Now that the fundamentals are taking root, I’m starting to advance toward the **core of AI** — neural networks, optimization, and generative systems.
 
