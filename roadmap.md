@@ -18,6 +18,9 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
 | Computer Science Crash Course | CrashCourse | 🟨 5 / 41 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
 | 30 Days of Python | Personal Repo | 🟨 7 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
+| CS50's Web | Harvard | 🟨 3 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
+
+
 
 ---
 
