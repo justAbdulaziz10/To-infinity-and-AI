@@ -1,6 +1,6 @@
 # My Journey into Artificial Intelligence
 
-Hello everybody 👋  
+Hello everybody  
 This repository documents my **personal roadmap** to master **AI & Machine Learning** and eventually become **one of the greatest innovators in the field**.  
 I’ll keep updating this file regularly as I progress through new courses, projects, and discoveries.
 
@@ -10,7 +10,7 @@ I’ll keep updating this file regularly as I progress through new courses, proj
 
 Before diving deep into the world of AI, I wanted to make sure my **Computer Science** and **Mathematics** fundamentals were solid — the true backbone behind every AI system.
 
-### 🧠 Computer Science Fundamentals
+### Computer Science Fundamentals
 
 | Course | Platform | Status | Link |
 |--------|-----------|--------|------|
