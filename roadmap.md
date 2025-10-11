@@ -20,7 +20,7 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 | 30 Days of Python | Personal Repo | 🟨 7 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | 🟨 3 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
 | CS50's SQL | Harvard | 🟨 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
-| CS50's Python | Harvard | 🟨 0 / 10 | [CS50's Python - Harvard]([https://cs50.harvard.edu/sql/](https://cs50.harvard.edu/python/)) |
+| CS50's Python | Harvard | 🟨 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
 
 
 
