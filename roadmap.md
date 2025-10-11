@@ -111,5 +111,5 @@ Stay tuned — I’ll keep updating this roadmap with every course completed, ev
 
 ---
 
-**Created by:** [Abdulaziz Alkhlaiwe](https://github.com/justAbdulaziz10)  
+**Created by:** [Abdulaziz Alkhlaiwe](https://www.linkedin.com/in/abdulaziz-alkhlaiwe/)  
 *Future AI Innovator | CIS Student | Lifelong Learner*
