@@ -19,8 +19,8 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 | Computer Science Crash Course | CrashCourse | 🟨 6 / 41 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
 | 30 Days of Python | Personal Repo | 🟨 7 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | 🟨 3 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
-| CS50's SQL | Harvard | 🟨 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
-| CS50's Python | Harvard | 🟨 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
+| CS50's SQL | Harvard | ⏳ 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
+| CS50's Python | Harvard | ⏳ 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
 
 
 
@@ -47,8 +47,8 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 |--------|--------------|-----------|--------|
 | Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 2 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
 | Calculus | Khan Academy | 🟨 3 / 199 | [Khan Academy](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
-| Statistics | Khan Academy | 🟨 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
-| Probability | Khan Academy | 🟨 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
+| Statistics | Khan Academy | ⏳ 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
+| Probability | Khan Academy | ⏳ 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
 
 ---
 
@@ -57,7 +57,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
-| CS50's AI | Harvard | 🟨 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
+| CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 ---
 ## Phase 4: Diving Deep into Machine Learning & AI
 
