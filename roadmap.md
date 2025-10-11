@@ -56,9 +56,19 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
+|  Foundation Models from the Ground Up | Databricks | ⏳ 0 / 32 | [Foundation Models from the Ground Up - Databricks](https://www.youtube.com/playlistlist=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) |
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 ---
+
+## Will help me in the future projects
+
+| Course | Institution | Progress | Links |
+|--------|--------------|-----------|--------|
+| CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
+
+---
+
 ## Phase 4: Diving Deep into Machine Learning & AI
 
 Now that the fundamentals are taking root, I’m starting to advance toward the **core of AI** — neural networks, optimization, and generative systems.
