@@ -61,11 +61,11 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 ---
 
-## Will help me in the future projects
+## Will help me in future projects
 
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
-| CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
+| Deep Learning with PyTorch | freeCodeCamp | ⏳ 0 / 6 | [PyTorch - freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) |
 
 ---
 
