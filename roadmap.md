@@ -74,7 +74,7 @@ Now that the fundamentals are taking root, I’m starting to advance toward the 
 Along with my learning journey, I plan to read more scientific papers in the field of AI, ML, and deep learning to expand my knowledge.
 
 | paper | writer | Progress |
-|--------|--------------|-----------|------|
+|--------|--------------|-----------|
 | A Few Useful Things to Know About Machine Learning | PEDRO DOMINGOS | ⏳ 0 / 1 |
 | Gradient-Based Learning Applied to Document Recognition | Yann LeCun et al | ⏳ 0 / 1 |
 | Sequence to Sequence Learning with Neural Networks | Google | ⏳ 0 / 1 |
