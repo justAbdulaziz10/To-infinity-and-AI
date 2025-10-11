@@ -66,6 +66,9 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
 | Deep Learning with PyTorch | freeCodeCamp | ⏳ 0 / 6 | [PyTorch - freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) |
+| PostgreSQL | tecnou | ⏳ 0 / 16 | [PostgreSQL - tecnou](https://www.youtube.com/playlist?list=PLhiFu-f80eo_90Mx37BzcIl9UJCNfEdQ_) |
+| Basics of Figma for | Cutting Edge School | ⏳ 0 / 8 | [figma - Cutting Edge School](https://www.youtube.com/playlist?list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-) |
+
 
 ---
 
