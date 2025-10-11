@@ -16,9 +16,10 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 |--------|-----------|--------|------|
 | CS50x | Harvard | ✅ Done | [CS50x – Harvard](https://cs50.harvard.edu/x/) |
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
-| Computer Science Crash Course | CrashCourse | 🟨 5 / 41 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
+| Computer Science Crash Course | CrashCourse | 🟨 6 / 41 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
 | 30 Days of Python | Personal Repo | 🟨 7 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | 🟨 3 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
+| CS50's SQL | Harvard | 🟨 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
 
 
 
@@ -33,9 +34,9 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Creator | Progress | Link |
 |--------|----------|-----------|------|
-| Math for Deep Learning | Andreas Geige | 🟨 2 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
-| Essence of Calculus | 3Blue1Brown | 🟨 2 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-| Essence of Linear Algebra | 3Blue1Brown | 🟨 1 / 16 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Math for Deep Learning | Andreas Geige | 🟨 3 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
+| Essence of Calculus | 3Blue1Brown | 🟨 3 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| Essence of Linear Algebra | 3Blue1Brown | 🟨 2 / 16 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Neural Networks | 3Blue1Brown | ⏳ 0 / 9 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 | Differential Equations | 3Blue1Brown | ⏳ 0 / 6 | [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 
@@ -55,6 +56,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
+| CS50's AI | Harvard | 🟨 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 ---
 ## Phase 4: Diving Deep into Machine Learning & AI
 
