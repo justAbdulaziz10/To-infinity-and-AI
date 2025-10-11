@@ -67,6 +67,24 @@ Now that the fundamentals are taking root, I’m starting to advance toward the 
 |--------|--------------|-----------|------|
 | Stanford CS230: Deep Learning (Autumn 2025) | Stanford | 🟨 2 / 10 | [Stanford CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) · [My Notes](https://github.com/justAbdulaziz10/Deep-Learning-Autuman-2025_Notes) |
 | Generative AI for Developers | Google Cloud | 🟨 3 / 12 | [Google Cloud Path](https://www.cloudskillsboost.google/paths/183) |
+| LLM Course | Hugging Face | ⏳ 0 / 12 | [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) |
+
+## Scientific papers
+
+Along with my learning journey, I plan to read more scientific papers in the field of AI, ML, and deep learning to expand my knowledge.
+
+| paper | writer | Progress |
+|--------|--------------|-----------|------|
+| A Few Useful Things to Know About Machine Learning | PEDRO DOMINGOS | ⏳ 0 / 1 |
+| Gradient-Based Learning Applied to Document Recognition | Yann LeCun et al | ⏳ 0 / 1 |
+| Sequence to Sequence Learning with Neural Networks | Google | ⏳ 0 / 1 |
+| Attention Is All You Need | Vaswani et al | ⏳ 0 / 1 |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | ⏳ 0 / 1 |
+| Language Models are Unsupervised Multitask Learners | OpenAI | ⏳ 0 / 1 |
+| GPT-3: Language Models are Few-Shot Learners” | OpenAI | ⏳ 0 / 1 |
+| Neural Ordinary Differential Equations | Chen et al | ⏳ 0 / 1 |
+| Self-Supervised Learning: The Dark Matter of Intelligence | Yann LeCun | ⏳ 0 / 1 |
+
 
 ---
 
