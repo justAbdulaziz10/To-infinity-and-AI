@@ -12,12 +12,14 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 
 ### Computer Science Fundamentals
 
+Before teaching machines to think, I must first master how thinking is translated into code. 
+
 | Course | Platform | Status | Link |
 |--------|-----------|--------|------|
 | CS50x | Harvard | ✅ Done | [CS50x – Harvard](https://cs50.harvard.edu/x/) |
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
 | Computer Science Crash Course | CrashCourse | 🟨 6 / 40 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
-| 30 Days of Python | Personal Repo | 🟨 11 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
+| 30 Days of Python | Personal Repo | 🟨 13 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | 🟨 3 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) . [My repo](https://github.com/justAbdulaziz10/CS50-Web-problem-sets)|
 | CS50's SQL | Harvard | ⏳ 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
 | CS50's Python | Harvard | ⏳ 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
@@ -25,6 +27,15 @@ Before diving deep into the world of AI, I wanted to make sure my **Computer Sci
 
 
 ---
+## Videos that help me very much in the begginng
+
+These videos were the spark that turned curiosity into obsession — and obsession into purpose
+
+| name | Institution | Links |
+|--------|--------------|--------|
+|Intro to Large Language Models | Andrej Karpathy | [Intro to LLM](https://youtu.be/zjkBMFhNj_g?si=zAmmNQuBEwJGuQow) |
+---
+
 
 ## Phase 2: Mathematical Foundation for AI
 
@@ -50,6 +61,10 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Statistics | Khan Academy | ⏳ 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
 | Probability | Khan Academy | ⏳ 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
 
+
+Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’t about matrices, it’s about transformations. Calculus is about change, and probability is about belief.
+
+
 ---
 
 ## Phase 3: Learning the basics about AI
@@ -59,6 +74,9 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 |  Foundation Models from the Ground Up | Databricks | ⏳ 0 / 32 | [Foundation Models from the Ground Up - Databricks](https://www.youtube.com/playlistlist=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) |
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 | CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
+
+Understanding the “why” behind AI before the “how” helped me see it as a tool for humanity — not just automation.
+
 ---
 
 ## Will help me in future projects
@@ -69,7 +87,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | PostgreSQL | tecnou | ⏳ 0 / 16 | [PostgreSQL - tecnou](https://www.youtube.com/playlist?list=PLhiFu-f80eo_90Mx37BzcIl9UJCNfEdQ_) |
 | Basics of Figma for | Cutting Edge School | ⏳ 0 / 8 | [figma - Cutting Edge School](https://www.youtube.com/playlist?list=PLlHtucAD9KT19ckHqXpPSStZOyDSq9AW-) |
 
-
+By mastering these, I’m building the technical ecosystem I’ll later use to bring my ideas (like Mara, Rahal, and future startups) to life — from deep learning models to full, user-ready products.
 ---
 
 ## Phase 4: Diving Deep into Machine Learning & AI
@@ -110,6 +128,9 @@ Along with my learning journey, I plan to read more scientific papers in the fie
 Stay tuned — I’ll keep updating this roadmap with every course completed, every project launched, and every milestone achieved.  
 
 ---
+
+*"“Every great AI starts as an idea — and every idea starts with curiosity.
+I’m not racing against others; I’m racing against time to build a better world.”"*
 
 **Created by:** [Abdulaziz Alkhlaiwe](https://www.linkedin.com/in/abdulaziz-alkhlaiwe/)  
 *Future AI Innovator | CIS Student | Lifelong Learner*
