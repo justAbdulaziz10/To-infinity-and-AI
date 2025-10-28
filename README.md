@@ -96,7 +96,7 @@ Now that the fundamentals are taking root, I’m starting to advance toward the 
 
 | Course | Institution | Progress | Link |
 |--------|--------------|-----------|------|
-| Stanford CS230: Deep Learning (Autumn 2025) | Stanford | 🟨 3 / 10 | [Stanford CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) · [My Notes](https://github.com/justAbdulaziz10/Deep-Learning-Autuman-2025_Notes) |
+| Stanford CS230: Deep Learning (Autumn 2025) | Stanford | 🟨 4 / 10 | [Stanford CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) · [My Notes](https://github.com/justAbdulaziz10/Deep-Learning-Autuman-2025_Notes) |
 | Generative AI for Developers | Google Cloud | 🟨 3 / 12 | [Google Cloud Path](https://www.cloudskillsboost.google/paths/183) |
 | LLM Course | Hugging Face | ⏳ 0 / 12 | [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) |
 ---
