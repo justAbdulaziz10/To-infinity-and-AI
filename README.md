@@ -18,7 +18,7 @@ Before teaching machines to think, I must first master how thinking is translate
 |--------|-----------|--------|------|
 | CS50x | Harvard | ✅ Done | [CS50x – Harvard](https://cs50.harvard.edu/x/) |
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
-| Computer Science Crash Course | CrashCourse | 🟨 7 / 40 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
+| Computer Science Crash Course | CrashCourse | 🟨 8 / 40 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
 | 30 Days of Python | Personal Repo | 🟨 14 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | 🟨 5 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
 | CS50's SQL | Harvard | ⏳ 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
@@ -46,7 +46,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Creator | Progress | Link |
 |--------|----------|-----------|------|
-| Math for Deep Learning | Andreas Geige | 🟨 11 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
+| Math for Deep Learning | Andreas Geige | 🟨 12 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
 | Essence of Calculus | 3Blue1Brown | 🟨 4 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Essence of Linear Algebra | 3Blue1Brown | 🟨 3 / 16 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Neural Networks | 3Blue1Brown | ⏳ 0 / 9 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
