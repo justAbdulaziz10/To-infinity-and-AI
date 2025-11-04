@@ -46,7 +46,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Creator | Progress | Link |
 |--------|----------|-----------|------|
-| Math for Deep Learning | Andreas Geige | 🟨 12 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
+| Math for Deep Learning | Andreas Geige | 🟨 15 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
 | Essence of Calculus | 3Blue1Brown | 🟨 4 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Essence of Linear Algebra | 3Blue1Brown | ✅ Done | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Neural Networks | 3Blue1Brown | ⏳ 0 / 9 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
