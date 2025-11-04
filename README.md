@@ -48,7 +48,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 |--------|----------|-----------|------|
 | Math for Deep Learning | Andreas Geige | 🟨 12 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
 | Essence of Calculus | 3Blue1Brown | 🟨 4 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-| Essence of Linear Algebra | 3Blue1Brown | 🟨 11 / 16 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Essence of Linear Algebra | 3Blue1Brown | ✅ Done | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Neural Networks | 3Blue1Brown | ⏳ 0 / 9 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 | Differential Equations | 3Blue1Brown | ⏳ 0 / 6 | [Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 
@@ -71,8 +71,8 @@ Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’
 
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
-|  Foundation Models from the Ground Up | Databricks | ⏳ 0 / 32 | [Foundation Models from the Ground Up - Databricks](https://www.youtube.com/playlistlist=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) |
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
+|  CS229: Machine Learning | Andrew Ng | ⏳ 0 / 20 | [Foundation Models from the Ground Up - Databricks](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=GOS-nM9CmsX8bIje) |
 | CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 
 Understanding the “why” behind AI before the “how” helped me see it as a tool for humanity — not just automation.
