@@ -73,9 +73,9 @@ Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’
 |--------|--------------|-----------|--------|
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
 |  CS229: Machine Learning | Andrew Ng | ⏳ 2 / 20 | [Foundation Models from the Ground Up - Databricks](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=GOS-nM9CmsX8bIje) |
-| Machine Learning Specialization | Andrew NG | ⏳ 10 / 40 | [Machine Learning Specialization]https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |
-| Machine Learning Specialization 2| Andrew NG | ⏳ 0 / 34 | [Machine Learning Specialization]https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&si=-i3YVhlzM_FQrxP1) |
-| Machine Learning Specialization 3| Andrew NG | ⏳ 0 / 22 | [Machine Learning Specialization 3]https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&si=VkWjhhVhqLOoK3g6) |
+| Machine Learning Specialization | Andrew NG | ⏳ 10 / 40 | [Machine Learning Specialization](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |
+| Machine Learning Specialization 2| Andrew NG | ⏳ 0 / 34 | [Machine Learning Specialization](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc&si=-i3YVhlzM_FQrxP1) |
+| Machine Learning Specialization 3| Andrew NG | ⏳ 0 / 22 | [Machine Learning Specialization 3](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&si=VkWjhhVhqLOoK3g6) |
 
 Understanding the “why” behind AI before the “how” helped me see it as a tool for humanity — not just automation.
 
