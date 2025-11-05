@@ -72,7 +72,8 @@ Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
 | AI For Everyone | Andrew Ng | ✅ Done | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) |
-|  CS229: Machine Learning | Andrew Ng | ⏳ 0 / 20 | [Foundation Models from the Ground Up - Databricks](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=GOS-nM9CmsX8bIje) |
+|  CS229: Machine Learning | Andrew Ng | ⏳ 2 / 20 | [Foundation Models from the Ground Up - Databricks](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=GOS-nM9CmsX8bIje) |
+| Machine Learning Specialization | Andrew NG | ⏳ 2 / 40 | [Machine Learning Specialization]https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |
 | CS50's AI | Harvard | ⏳ 0 / 7 | [CS50's AI - Harvard](https://cs50.harvard.edu/ai/) |
 
 Understanding the “why” behind AI before the “how” helped me see it as a tool for humanity — not just automation.
