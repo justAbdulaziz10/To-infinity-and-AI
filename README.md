@@ -57,6 +57,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
 | Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 6 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
+| Linear Algebra for Machine Learning and Data Science | DeepLearning.AI | 🟨 94 / 100 | [Coursera](https://www.coursera.org/programs/kaust-learning-prog-zxvgu/learn/machine-learning-linear-algebra?collectionId=zpkOB&badgeTemplateId=Ou3Gfo1dQu2txn6NXfLtOg) |
 | Calculus | Khan Academy | 🟨 4 / 199 | [Khan Academy](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
 | Statistics | Khan Academy | ⏳ 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
 | Probability | Khan Academy | ⏳ 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
