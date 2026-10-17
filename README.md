@@ -73,6 +73,7 @@ Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’
 |--------|--------|--------|
 |NumPy | [Learn NumPy](https://youtu.be/zjkBMFhNj_g?si=zAmmNQuBEwJGuQow) . [Learn NumPy 2](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/tools_numpy.ipynb)| ✅ Done |
 |matplotlib | [Learn matplotlib](https://youtu.be/c9vhHUGdav0)| ✅ Done |
+|Pandas | [Learn Pandas](https://youtu.be/VXtjG_GzO7Q) . [Learn Pandads 2](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/tools_pandas.ipynb| ⏳ 0 / 2 |
 ---
 
 ## Phase 3: Learning the basics about AI
