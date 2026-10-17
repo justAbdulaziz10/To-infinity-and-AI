@@ -20,7 +20,7 @@ Before teaching machines to think, I must first master how thinking is translate
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
 | Computer Science Crash Course | CrashCourse | 🟨 8 / 40 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
 | 30 Days of Python | Personal Repo | 🟨 14 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
-| CS50's Web | Harvard | 🟨 5 / 9 | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
+| CS50's Web | Harvard | ✅ Done  | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
 | CS50's SQL | Harvard | ⏳ 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
 | CS50's Python | Harvard | ⏳ 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
 
@@ -56,7 +56,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Institution | Progress | Links |
 |--------|--------------|-----------|--------|
-| Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 6 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
+| Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 9 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
 | Linear Algebra for Machine Learning and Data Science | DeepLearning.AI | ✅ Done | [Coursera](https://www.coursera.org/programs/kaust-learning-prog-zxvgu/learn/machine-learning-linear-algebra?collectionId=zpkOB&badgeTemplateId=Ou3Gfo1dQu2txn6NXfLtOg) |
 | Calculus | Khan Academy | 🟨 4 / 199 | [Khan Academy](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
 | Statistics | Khan Academy | ⏳ 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
