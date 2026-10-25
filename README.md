@@ -19,11 +19,7 @@ Before teaching machines to think, I must first master how thinking is translate
 | CS50x | Harvard | ✅ Done | [CS50x – Harvard](https://cs50.harvard.edu/x/) |
 | CS101 | Fireship | ✅ Done | [CS101 – Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3) |
 | Computer Science Crash Course | CrashCourse | 🟨 8 / 40 | [Crash Course CS](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fI6kr9sJD6At8iTM) |
-| 30 Days of Python | Personal Repo | 🟨 14 / 30 | [30DaysOfPython](https://github.com/justAbdulaziz10/30DaysOfPython) |
 | CS50's Web | Harvard | ✅ Done  | [CS50's Web - Harvard](https://cs50.harvard.edu/web/) |
-| CS50's SQL | Harvard | ⏳ 0 / 7 | [CS50's SQL - Harvard](https://cs50.harvard.edu/sql/) |
-| CS50's Python | Harvard | ⏳ 0 / 10 | [CS50's Python - Harvard](https://cs50.harvard.edu/python/) |
-
 
 
 ---
@@ -46,7 +42,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 
 | Course | Creator | Progress | Link |
 |--------|----------|-----------|------|
-| Math for Deep Learning | Andreas Geige | 🟨 15 / 18 | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
+| Math for Deep Learning | Andreas Geige | ✅ Done | [Watch here](https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&si=U_A3jIStyYm5RSkF) |
 | Essence of Calculus | 3Blue1Brown | 🟨 5 / 12 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Essence of Linear Algebra | 3Blue1Brown | ✅ Done | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Neural Networks | 3Blue1Brown | ⏳ 0 / 9 | [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
@@ -59,8 +55,7 @@ This phase is all about mastering calculus, linear algebra, and the mathematical
 | Linear Algebra Lectures | MIT (Gilbert Strang) | 🟨 9 / 34 | [MIT Course Playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) · [My Notes](https://github.com/justAbdulaziz10/Linear_Algebra_notes) |
 | Linear Algebra for Machine Learning and Data Science | DeepLearning.AI | ✅ Done | [Coursera](https://www.coursera.org/programs/kaust-learning-prog-zxvgu/learn/machine-learning-linear-algebra?collectionId=zpkOB&badgeTemplateId=Ou3Gfo1dQu2txn6NXfLtOg) |
 | Calculus | Khan Academy | 🟨 4 / 199 | [Khan Academy](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) |
-| Statistics | Khan Academy | ⏳ 0 / 67 | [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) |
-| Probability | Khan Academy | ⏳ 0 / 41 | [Khan Academy](https://www.youtube.com/playlist?list=PLC58778F28211FA19) |
+| Introduction to Probability for Computer | Stanford | 🟨 3 / 29 | [Stanford CS109](https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=JrmF4xlxCWa0Jqgv) |
 
 
 Math isn’t a wall — it’s a language. I realized that Linear Algebra isn’t about matrices, it’s about transformations. Calculus is about change, and probability is about belief.
